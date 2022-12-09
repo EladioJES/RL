@@ -24,6 +24,3 @@ Rewards are given by the environment at every time step, but values must be esti
 > Models are used for planning: deciding on a course of action by considering possible future outcomes before they are actually experienced.
 
 There are **model-based** methods, as opposed to **model-free** methods that are explicitly trial-and-error learners. These are viewed as the opposite of planning.
-
-# Multi-armed Bandits
-
